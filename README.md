@@ -1,1 +1,1 @@
-#Personalized Diet Recomendation System
+This project is a machine learning-based application that generates personalized diet plans by analyzing key health parameters such as diabetes status, BMI, hypertension, blood sugar, blood pressure, height, and weight. The system aims to promote healthier eating habits by recommending suitable diets tailored to individual health conditions and requirements.
